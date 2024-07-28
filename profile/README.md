@@ -3,7 +3,9 @@
 # [`zitefy`](https://zitefy.com/)
 the link-in-bio tool for 2024, empowering you to create a unique webpage of your own, unrestricted, regardless of your web dev knowledge.
 
-🎞️ [**Watch on YouTube**](https://youtu.be/zrExP-ZH0xY)
+🎞️ [**Watch in full quality on YouTube**](https://youtu.be/zrExP-ZH0xY)
+
+https://github.com/user-attachments/assets/b553b411-93e1-4271-a97c-40f17bdad80b
 
 ## What's this?
 This, at it's core, is an open-source link-in-bio tool. But unike traditional counterparts like [linktree](https://linktree.com), [bento](https://bento.me/en/home) or even the open-source [librelinks](https://www.librelinks.me/), zitefy takes a different approach which offers unparalleled customizability for creating your unique websites.
