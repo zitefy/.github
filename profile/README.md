@@ -1,7 +1,7 @@
 ![bannerr](https://github.com/user-attachments/assets/25f6c1a7-dbf1-4aeb-b1df-a021d89172a9)
 
 # [`zitefy`](https://zitefy.com/)
-the link-in-bio tool for 2024, empowering you to create a unique webpage of your own, unrestricted, regardless of your web dev knowledge.
+the link-in-bio tool for 2024, empowering you to create a unique webpage of your own, unrestricted, regardless of your web dev knowledge. This project was built at [FOSS Hack 4.0](https://fossunited.org/fosshack/2024).
 
 🎞️ [**Watch in full quality on YouTube**](https://youtu.be/zrExP-ZH0xY)
 
@@ -35,3 +35,35 @@ The source code is split across three different repositories. Here's what they a
 * [server](https://github.com/zitefy/server): is the central server where the site is hosted and the api endpoints reside, basically the backbone of the whole thing. it's written in rust using the actix web framework
 * [portal](https://github.com/zitefy/portal): is the web app you see at [zitefy.com](https://zitefy.com/). it's written in typescript with solid.js.
 * [templates](https://github.com/zitefy/templates): this repo houses all the templates available in zitefy. you can add a new template of your own by contributing here!
+
+## License
+All repositories are licensed under the MIT License, see [LICENSE](https://github.com/zitefy/portal/blob/main/LICENSE) for more information.
+
+## Citations & Acknowledgements
+This project wouldn't exist without these resources:
+
+* [actix-web](https://actix.rs/)
+* [solid.js](https://www.solidjs.com/)
+* [bun](https://bun.sh)
+* [puppeteer](https://pptr.dev/)
+
+## FAQ
+*FOSSHack Questionnaire:*
+
+Q. What was the initial stage of the project?
+
+> The initial idea of the project stemmed from the notion that everyone should be able to create a personal website for themselves.
+> Initially, at the start of FOSS Hack, the project had a logo & a UI design.
+
+Q. What stage is it in now?
+
+> It's ~90% complete. All the functionalities work, but there are some issues on systems with lower memory, such as the VPS it's being run on now. The whole application is slow at the moment.
+
+Q. How did you get there?
+
+> The authors are web developers who have once gone through the ordeal of having to build a personal website from scratch without no base code to begin with. This is a tedious process for many and inaccessible for many more who don't know web dev. Existing link-in-bio platforms are ultimately limited when it comes to customizability.
+> We thus started working on this idea with the notion that everyone deserves their place on the web, with their own personal webpage or website. We chose rust as the backend language dut to it's safety features when shipping rapidly & to reduce memory footprint and keep server costs down. Typescript was chosen for it's guardrails & safety as well.
+
+Q. What is working/not working?
+
+> Everything except the site preview in the editor is working. We were able to get this working in our local machine with an octa core processor & 16 GB RAM as well ([see video](https://youtu.be/zrExP-ZH0xY?si=4Q8iMhf6X0D6h-_e&t=39)) but couldn't get it to work in the prod VPS with a single core CPU & 1GB RAM. This is likely due to the bigger compute required when running everything together.
