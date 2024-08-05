@@ -3,7 +3,7 @@
 # [`zitefy`](https://zitefy.com/)
 the link-in-bio tool for 2024, empowering you to create a unique webpage of your own, unrestricted, regardless of your web dev knowledge. This project was built at [FOSS Hack 4.0](https://fossunited.org/fosshack/2024).
 
-<a href="https://www.producthunt.com/posts/zitefy?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-zitefy" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=476835&theme=dark" alt="zitefy - the&#0032;most&#0032;customizable&#0032;&#0038;&#0032;open&#0032;link&#0045;in&#0045;bio&#0032;tool&#0032;ever&#0044;&#0032;with&#0032;ai&#0033; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<a href="https://www.producthunt.com/products/zitefy/reviews?utm_source=badge-product_review&utm_medium=badge&utm_souce=badge-zitefy" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=597486&theme=dark" alt="zitefy - the&#0032;most&#0032;customizable&#0032;&#0038;&#0032;open&#0032;link&#0045;in&#0045;bio&#0032;tool&#0032;ever&#0044;&#0032;with&#0032;ai&#0033; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 > 🚀 This has been shipped & is live [here](https://zitefy.com)! You can also [try the arcade demo](https://demo.zitefy.com).
 
