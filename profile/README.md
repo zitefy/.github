@@ -3,7 +3,7 @@
 # [`zitefy`](https://zitefy.com/)
 the link-in-bio tool for 2024, empowering you to create a unique webpage of your own, unrestricted, regardless of your web dev knowledge. This project was built at [FOSS Hack 4.0](https://fossunited.org/fosshack/2024).
 
-> 🚀 This has been shipped & is live [here](https://zitefy.com)! You can also [try the arcade demo](https://app.arcade.software/share/9WurR7ejQZLsBNjHFrJa).
+> 🚀 This has been shipped & is live [here](https://zitefy.com)! You can also [try the arcade demo](https://demo.zitefy.com).
 
 🎞️ [**Watch in full quality on YouTube**](https://youtu.be/zrExP-ZH0xY)
 
